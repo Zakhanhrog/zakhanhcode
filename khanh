@@ -1,1 +1,14 @@
-<a href= "https://github.com/Zakhanhrog/zakhanhcode/new/main">zakhanh</a>
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title>HTML Zakhanh</title>
+  </head>
+  <body>
+    <h1> HTML: HyperText Markup language </h1>
+    <p> Tim Berners-Lee invented the first browser at CERN, to enable researchers to share their research with eachother. </p>
+    <a href="https://ken.codegym.vn/boards/29011"target="_blank">Read and do kengymcode</a>
+   <br> <img src="https://th.bing.com/th/id/R.c59cb4d6dda0d97d72600fc66821bbcd?rik=p%2bqtqo2eNb0jtA&riu=http%3a%2f%2fthestatetimes.com%2fwp-content%2fuploads%2f2018%2f02%2finfotech.jpg&ehk=FF2w7obphoNFJAmHb0IyqQuqdiAVkB1haRtebXosqj8%3d&risl=&pid=ImgRaw&r=0" width="200"alt="error">
+   <br> <a href="https://www.bing.com/search?q=technology&form=ANNTH1&refig=397e85914cef4b19927997787ef313f9&pc=U531&pqlth=4&assgl=10&sgcn=technology&smvpcn=0&swbcn=10&sctcn=0&cvid=397e85914cef4b19927997787ef313f9&kpratsg=1&hsmssg=0" target="_blank">technology</a>
+  </body>
+</html>
